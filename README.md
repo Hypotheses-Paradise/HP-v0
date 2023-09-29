@@ -1,6 +1,6 @@
 # More-Paradise-V0
 
-- Data Generation
+- Hypothese Paradise Data Generation Tool
 
 Open request to public git submission on open resource their n-best to public usage. 
 
