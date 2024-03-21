@@ -1,8 +1,10 @@
 # More-Paradise-V0
 
-- Hypothese Paradise Data Generation Tool
+- Hypothese Paradise N-Best Data Generation Tool with Whisper and WavLM
 
 Open request to public git submission on open resource their n-best to public usage. 
+
+
 
 
 ```bib
