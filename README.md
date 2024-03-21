@@ -6,6 +6,9 @@ Open request to public git submission on open resource their n-best to public us
 
 <p align="center">  <img src="https://github.com/Hypotheses-Paradise/HP-v0/blob/main/Hypo-Gen.png" height ="250"> </p>
 
+```bash
+$git clone https://github.com/Hypotheses-Paradise/HP-v0
+```
 
 
 ```bib
